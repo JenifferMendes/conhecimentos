@@ -1,0 +1,1 @@
+# Introdução ao Guia de Inglês e como utilizá-lo.

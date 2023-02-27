@@ -1,0 +1,1 @@
+# Introdução ao Guia de Japonês e como utilizá-lo.
