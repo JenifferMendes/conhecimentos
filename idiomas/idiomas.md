@@ -1,0 +1,5 @@
+# IDIOMAS
+
+- Coreano
+- Inglês
+- Japonês
