@@ -1,0 +1,1 @@
+# Anotações e Observações a respeito do Idioma Coreano
