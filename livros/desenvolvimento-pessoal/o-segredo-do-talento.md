@@ -1,4 +1,4 @@
-# O segredo do Talento - Daniel Coyle
+# O segredo do Talento - Daniel Coyle (em andamento)
 
 ## Dica 1: Olhe todos os dias para imagens que te inspirem
 - Procure referencias para talentos que gostaria de ter.
