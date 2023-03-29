@@ -22,3 +22,8 @@ coloque no caderno:
 -  resultados de hoje.
 -  Ideias para amanhã. 
 -  Metas para a próxima semana.
+
+## Dica 5: Esteja disposto a fazer papel de bobo
+- erros não são erros, e sim pontos de referência para o aperfeiçoamento.
+- estabelecer regras que incentivem as pessoas a alcançar metas que em outras circunstancias, pareceriam estranhas e arriscadas para incentivar "erros produtivos".
+- incentivar a realização de objetivos e exergar os erros não como sentenças finais, mas como informações necessárias para que a coisa certea seja feita.
