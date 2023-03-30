@@ -27,3 +27,8 @@ coloque no caderno:
 - erros não são erros, e sim pontos de referência para o aperfeiçoamento.
 - estabelecer regras que incentivem as pessoas a alcançar metas que em outras circunstancias, pareceriam estranhas e arriscadas para incentivar "erros produtivos".
 - incentivar a realização de objetivos e exergar os erros não como sentenças finais, mas como informações necessárias para que a coisa certea seja feita.
+
+## Dica 6: Dê preferência a simplicidade
+- o luxo destrói a motivação, sinalizando à nossa mente inconsciente para fazermos menos esforço, como se já tivéssemos alcançado todos os nossos objetivos. 
+- espaços simples e humildes nos ajudam a prestar atenção no que estamos fazendo.
+- se puder escolher entre a simplicidade e o luxo, dê preferência à primiera opção. Sua mente inconsciente agradecerá.
