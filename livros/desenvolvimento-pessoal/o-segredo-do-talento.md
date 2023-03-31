@@ -32,3 +32,7 @@ coloque no caderno:
 - o luxo destrói a motivação, sinalizando à nossa mente inconsciente para fazermos menos esforço, como se já tivéssemos alcançado todos os nossos objetivos. 
 - espaços simples e humildes nos ajudam a prestar atenção no que estamos fazendo.
 - se puder escolher entre a simplicidade e o luxo, dê preferência à primiera opção. Sua mente inconsciente agradecerá.
+
+## Dica 7: antes de começar, verifique se a habilidade pessaol é de alta precisão ou de alta flexibilidade
+- qual categoria se enquadra: técnica ou pessoal.
+- habilidades de alta precisõa: tem a ver com precisão e repetição, sobretudo fisico. (esportes) - neste caso o objetivo é desenvolver uma habilidade que funcione de forma confiavel, com precisão, sempre da mesma forma sem falhar.
