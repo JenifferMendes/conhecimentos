@@ -35,4 +35,5 @@ coloque no caderno:
 
 ## Dica 7: antes de começar, verifique se a habilidade pessaol é de alta precisão ou de alta flexibilidade
 - qual categoria se enquadra: técnica ou pessoal.
-- habilidades de alta precisõa: tem a ver com precisão e repetição, sobretudo fisico. (esportes) - neste caso o objetivo é desenvolver uma habilidade que funcione de forma confiavel, com precisão, sempre da mesma forma sem falhar.
+- **Habilidades de alta precisão**: tem a ver com precisão e repetição, sobretudo fisico. (esportes) - neste caso o objetivo é desenvolver uma habilidade que funcione de forma confiavel, com precisão, sempre da mesma forma sem falhar.
+- **Habilidades de alta flexibilidade**: pode ser aplicado de diversasformas, e não  de uma única maneira. para que um bom resultado seja alcançado. A ideia não é fazer sempre da mesma maneira e sim ser ágil e interativo. Atividades mais gerais, que envolvem comunicação. A ideia é reconhecer rapidamente um padrão ou uma possibilidade, e de superar adversidades.
