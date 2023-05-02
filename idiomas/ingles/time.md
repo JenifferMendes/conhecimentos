@@ -1,0 +1,33 @@
+# What time is it? / What's the time?(britânico)
+
+## It's...
+- 1:00 one o'clock
+- 1:00 one am
+- 1:00 one pm
+- 1:05 one oh five
+- 1:05 five past one
+- 1:10 one ten
+- 1:10 ten past one
+- 1:15 one fifteen
+- 1:15 fifteen past one
+- 1:15 A quarter past one
+- 1:20 one twenty
+- 1:20 twenty past one
+- 1:25 one twenty-five
+- 1:25 twenty-five past one
+- 1:30 one thirty
+- 1:30 thirty past one
+- 1:30 half past one
+- 1:35 twenty-five to two
+- 1:35 one thirty-five
+- 1:40 one forty
+- 1:40 twenty to two
+- 1:45 one forty-five
+- 1:45 fiften to two
+- 1:45 a quarter to two
+- 1:50 one fifty
+- 1:50 ten to two
+- 2:00 two o'clock
+- 12:00 twelve o'clock
+- 12:00 noon
+- 12:00 midnight
