@@ -8,4 +8,6 @@
 
 `잘 지냈어요?` - Tudo bem?
 
+`잘 먹껬습니다` - I'm going to eat well
+
 ## Exemplos de frases do dia-a-dia
