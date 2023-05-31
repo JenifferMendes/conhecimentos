@@ -68,5 +68,15 @@
 - `어른` - adult
 - `청소년` - adolescent, youth
 - `아기`- baby
+- `장갑` - a pair of gloves
+- `라자냐` - lasagne
+- `겨울` - winter
+- `지하철` - subway
+- `놀다` - to play, to hangout
+- `삼겹살` - pork belly
+- `굴` - oysters
+- `치킨` - chicken
+- `속옷` - underwear
+- `양말`- socks
+- `드라이기` - hairdrier
 - 
-
