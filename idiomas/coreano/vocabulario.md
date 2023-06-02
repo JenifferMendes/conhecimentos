@@ -34,6 +34,10 @@
 - `데리고 오다` - trazer pessoa
 - `신기하다` - to be interesting, to be fascinating
 - `적다` - to be few, to be little
+- `싸우다` - to fight/to argue
+- `지다` - to lose
+- `닫다` - to close
+- `열다` - to open
 
 
 ## palavras com 받침
@@ -79,4 +83,6 @@
 - `속옷` - underwear
 - `양말`- socks
 - `드라이기` - hairdrier
+- `회` - row fish
+- `문` - door
 - 
