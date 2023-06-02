@@ -83,6 +83,6 @@
 - `속옷` - underwear
 - `양말`- socks
 - `드라이기` - hairdrier
-- `회` - row fish
+- `회` - raw fish
 - `문` - door
 - 
