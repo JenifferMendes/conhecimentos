@@ -38,6 +38,13 @@
 - `지다` - to lose
 - `닫다` - to close
 - `열다` - to open
+- `웃다` - to laugh
+- `보이다` - to be seen, to be visible
+- `친하다` - to be close/ with someone
+- `기쁘다` - to be glad/ to be happy
+- `적다` - to write down
+- 이상하다 - to be strange
+- 기다리다 - to wait
 
 
 ## palavras com 받침
@@ -85,4 +92,27 @@
 - `드라이기` - hairdrier
 - `회` - raw fish
 - `문` - door
+  ## best of me (lyric bts)
+- `칼`: knife/sword
+- `다정한`: warm hearted/affectionate. 
+- `다정하다`: kind, friendly, affectionate
+- `적`: enemy
+- `파도고`: `파도` is wave
+- `숨을`: `숨` breath, breathing, respiration
+- `입맞춰`: to kiss/press one's lips against
+- `속으로만`: `속` inside/interior, `-(으)로` is direction, `-만` is only ; so maybe "only in the interior/ inside"
+- `그러니`: so, because it is like that
+- `니가`: you
+- `수천`: thousands of , like thousands of people
+- `딱히`: (-히, adverb) exactly or pitifully, embarrassingly. `딱하다`: pathetic; pitiful / embarrassing; difficult
+- `현실인지는`: `현실` is reality, + `ㄴ지` (uncertain question or doubt) + with a noun modifier. So overall something like "I'm not sure if this is reality"
+- `모레` - the day after tomorrow
+- `귀고리` - earring
+- `몬걸이` - necklace
+- 칠판 - blackboard
+- 학상 - desk
+- 생일 - birthday
+- 교실 - classroom
+- 춤 - dance
+- 하루 - day, one day
 - 
