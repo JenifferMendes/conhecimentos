@@ -109,10 +109,14 @@
 - `모레` - the day after tomorrow
 - `귀고리` - earring
 - `몬걸이` - necklace
-- 칠판 - blackboard
-- 학상 - desk
-- 생일 - birthday
-- 교실 - classroom
-- 춤 - dance
-- 하루 - day, one day
-- 
+- ``칠판`` - blackboard
+- ``학상`` - desk
+- ``생일`` - birthday
+- ``교실`` - classroom
+- ``춤`` - dance
+- ``하루`` - day, one day
+- `잡다` - to catch
+- `식당` - restaurant
+- `나오다` - to come out
+- `중전하다` - to change
+- `중요하다` - to be important
