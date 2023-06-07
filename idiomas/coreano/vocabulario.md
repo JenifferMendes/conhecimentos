@@ -120,3 +120,11 @@
 - `나오다` - to come out
 - `중전하다` - to change
 - `중요하다` - to be important
+- `왜` - why
+- `사랑` - love
+- `아니다` - not
+- `새` - new/bird
+- `뭘` - no problem, piece of cake 
+- `그리고` - and
+- `없어서요` - not existent
+- `다음` - next
