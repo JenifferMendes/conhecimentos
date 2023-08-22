@@ -42,3 +42,36 @@ coloque no caderno:
 - método suzuki
 - nosso cérebro é bom em construir conexões, mas não é tão bom assim em desconstruí-las.
 - aprender os princípios básicos pode parecer chato, mas é fundamental
+
+## Dica 09: Para desenvolver habilidades de alta flexibilidade, aventure-se como um skatista.
+
+## Dica 10: Priorize as habilidades de alta precisão
+
+## Dica 11: Não se deixe seduzir pelo mito do prodigio.
+
+## Dica 12: Cinco maneiras de escolher um ótimo mentor.
+
+1) Evite os otimistas demais
+2) Procure alguém que o assuste um pouco.
+3) Procure alguém que dê instruções claras e concisas.
+4) Procure alguém que adore ensinar o básico.
+5) Se houver empate em todos os quesitos anteriores, escolha a pessoa mais velha.
+
+
+## Dica 13:  Encontre o ponto ideal
+
+- sensação: frustração, dificuldade, consciencia dos erros. (PORCENTAGEM DE TENTATIVAS BEM-SUCEDIDAS: entre 50% e 80%)
+
+## Dica 14: Abandone o relógio.
+
+- em vez de contar o tempo, conte tentativas e repetições.
+
+## Dica 15: Divida as tarefas em blocos
+
+## Dica 16: Procure construir um bloco perfeito por dia
+
+## Dica 17: não fuja da luta
+
+## Dica 18:  É melhor praticar cinco minutos por dia do que uma hora por semana.
+
+## Dica 19: invente desafios inteligentes e viciantes
