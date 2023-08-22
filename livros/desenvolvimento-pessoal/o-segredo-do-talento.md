@@ -142,19 +142,36 @@ S - SOLIDEZ E RAPIDEZ NO FEEDBACK - QUESTOES
 
 ## Dica 39: PRATIQUE IMEDIATAMENTE APÓS UMA PERFORMANCE
 
-## Dica 40:
+## Dica 40: Antes de dormir, assista a um filme mentalmente
 
-## Dica 41:
+## Dica 41: termine com algo positivo
 
-## Dica 42:
+## Dica 42: seis maneiras de melhorar como mentor
 
-## Dica 43:
-## Dica 44:
-## Dica 45:
-## Dica 46:
-## Dica 47:
-## Dica 48:
-## Dica 49:
-## Dica 50:
-## Dica 51:
-## Dica 52:
+1) Use os primeiros segundos de sessão (ou aula) para se conectar emocionalmente
+2) Evite discursos longos. Em vez disso, transmita a informação aos poucos, de forma clara
+3) Não seja vago (seja objetivo)
+4) Estabeleça critérios de avaliação
+5) maximize a capacidade de superação
+6) Procure criar alunos independentes
+
+## Dica 43: Adote a repetição
+ repetição é a ferramenta mais poderosa que você tem.
+
+## Dica 44: tenha a mentalidade de um operário
+
+## Dica 45: para cada hora de competição, passe cinco horas praticando
+
+## Dica 46: não perca tempo tentando se livrar de hábitos negativos. Em vez disso, desenvolva novos hábitos.
+
+## Dica 47: Para reforçar o aprendizado, ensine
+
+## Dica 48: Espere um mínimo de oito semanas para desenvolver uma nova habilidade
+
+## Dica 49: quando estagnar, mude 
+
+## Dica 50: cultive sua garra
+
+## Dica 51: guarde as grandes metas em segredo 
+
+## Dica 52: pense como um jardineiro, trabalhe como um carpinteiro
