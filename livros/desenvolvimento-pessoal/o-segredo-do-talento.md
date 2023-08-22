@@ -75,3 +75,86 @@ coloque no caderno:
 ## Dica 18:  É melhor praticar cinco minutos por dia do que uma hora por semana.
 
 ## Dica 19: invente desafios inteligentes e viciantes
+
+- gamefique sua vida, agenda.
+- Acompnahe seu progresso e veja quantos pontos você faz em sete dias. Na semana seguinte tente melhorar a pontuação.
+
+## Dica 20: Pratique sozinho.
+
+-  "A imagem que tenho de um campeão é um sujeito inclinado, ensopado de suor, exausto, quando não há ninguém por perto."
+
+## Dica 21: Pense por meio de imagens
+
+  a) cante a frase baixando a voz aos poucos.
+  b) cante a frase como se fosse um balão esvaziando.
+
+  Sempre que possível, crie uma imagem nitida para cada bloco de habilidade que você queira desenvolver. Elas não precisam ser elaboradas, apenas fáceis de lembrar.
+
+## Dica 22: Reconheça seus erros assim que cometê-los
+
+## Dica 23: Visualize seu cérebro formando as conexões certas a partir dos erros qeu você comete
+
+## Dica 24: Pratique mais para acelerar suas conexões cerebrais
+
+## Dica 25: Diminua o espaço de prática
+
+- Qual é o espaço minimo necessário para desevolver minhas habilidades? o que posso modificar para eliminar o espaço extra que talvez esteja me impedindo de estabelecer uma comunicação mais fluente e rápida?
+
+## Dica 26: vá mais devagar(muito mais do que você imagina)
+
+## Dica 27: Feche os olhos
+
+## Dica 28: Simule
+
+## Dica 29: Quando fizer certo, registre o momento
+
+## Dica 30: Tire vários cochilos
+
+## Dica 31: Para aprender uma nova habilidade, exagere
+
+## Dica 32: Foque o que precisa dar certo
+
+## Dica 33: Para aprender com um livro, feche-o
+
+- faça um resumo do que você leu
+
+## Dica 34: Use a técnica sanduíche
+
+- faça o movimento certo, faça o movimento errado, faça o movimento certo novamente.
+
+## Dica 35: Use a técnica 3x10
+
+- pratique 3 vezes e com intervalos de 10 minutos entre as repetições.
+
+## Dica 36:  Invente experimentos diários
+
+- faça cada pratica como alguns detalhes, tipo se tocar uma musica sem errar -> ganha x coisa
+
+## Dica 37: para definir o melhor método de prática utilize a avaliação R.E.P.S
+
+R - REPETIÇÃO E ESFORÇO - ALUNOS NA SALA DE AULA
+E - ENVOLVIMENTO - MUSICA/ERRO
+P - PROPÓSITO - BASQUETE
+S - SOLIDEZ E RAPIDEZ NO FEEDBACK - QUESTOES
+
+
+## Dica 38: PARE ANTES DE FICAR EXAUSTO
+
+## Dica 39: PRATIQUE IMEDIATAMENTE APÓS UMA PERFORMANCE
+
+## Dica 40:
+
+## Dica 41:
+
+## Dica 42:
+
+## Dica 43:
+## Dica 44:
+## Dica 45:
+## Dica 46:
+## Dica 47:
+## Dica 48:
+## Dica 49:
+## Dica 50:
+## Dica 51:
+## Dica 52:
